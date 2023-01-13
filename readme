@@ -1,5 +1,7 @@
 2023年機械学習勉強
 01.参考図書：PythonとKerasによるディープラーニング
+   参考URL：Image classification　
+   　　　　　https://www.tensorflow.org/tutorials/images/classification　
 02.目標
 ・ニューラルネットワークの理解
 ・任意の画像分類（取り組み中）から社内業務への機械学習の適用
